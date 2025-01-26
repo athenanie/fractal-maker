@@ -1,7 +1,7 @@
 boolean[][] pattern = 
 	{{true,true,true},{true,false,true},{true,true,true}};
 int DIMENSION = 3;
-int ITERATIONS = 5;
+int ITERATIONS = 4;
 int SIZE = 600;
 int LAG_LIMIT = 256;
 
