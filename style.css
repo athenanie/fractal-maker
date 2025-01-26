@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(255, 248, 212);
+    font-family: 'Garamond', 'Times New Roman';
+    padding-left: 6vw;
+    padding-right: 6vw;
+}
+.h1 {
+    font-family: 'Helvetica';
+    text-align:center;
+}
+canvas { 
+    height: 44vw; 
+    width: 88vw;
+    margin: auto;
+    display: block;
+}
+footer {
+    text-align:center;
+}
