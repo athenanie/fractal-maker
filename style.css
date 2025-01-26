@@ -6,14 +6,11 @@ body {
 }
 .h1 {
     font-family: 'Helvetica';
-    text-align:center;
+    text-align: center;
 }
-canvas { 
-    height: 44vw; 
-    width: 88vw;
-    margin: auto;
+canvas {
     display: block;
 }
 footer {
-    text-align:center;
+    text-align: center;
 }
